@@ -1,0 +1,29 @@
+{
+  "name": "morceguinho-theme",
+  "displayName": "Morceguinho Theme",
+  "description": "🦇",
+  "version": "2.1.0",
+  "publisher": "xfelipetavares",
+  "icon": "src/morceguinho.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Morceguinho Theme",
+        "uiTheme": "vs-dark",
+        "path": "src/morceguinho.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "npx vsce package -o ./build/morceguinho-theme.vsix"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
