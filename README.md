@@ -1,13 +1,13 @@
 # Morceguinho Theme
 
-![morceguinho_logo](https://github.com/xfelipetavares/morceguinho-theme-vscode/assets/33338074/21986bae-3d37-47bb-ad4b-3763d7257202)
-
+![morceguinho_logo](https://github.com/xfelipetavares/morceguinho-theme-vscode/assets/33338074/e1394d5b-697d-4ae7-b5cb-d87beb843c82)
 
 ## Descrição
 
 Morceguinho Theme é um tema escuro inspirado nos temas Drácula e Omni, juntando o melhor dos dois (na minha opinião) para o Visual Studio Code. Com tons sutis e cores contrastantes, este tema é projetado para oferecer uma experiência de coding mais agradável aos olhos, especialmente em ambientes com pouca luz ou até mesmo ambientes bem iluminados.
 
-![CleanShot 2023-08-04 at 16 00 10](https://github.com/xfelipetavares/morceguinho-theme-vscode/assets/33338074/12c5c61c-ecc7-4e09-bce8-af1b22a340d1)
+![CleanShot 2023-08-04 at 16 00 10](https://github.com/xfelipetavares/morceguinho-theme-vscode/assets/33338074/a2b6c5db-b7cc-46f2-ab63-1631eb6963a7)
+
 
 [VSCode Store](https://marketplace.visualstudio.com/items?itemName=xfelipetavares.morceguinho-theme&ssr=false#overview)
 
