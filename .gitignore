@@ -1,3 +1,4 @@
 node_modules
 build/morceguinho-theme.vsix
 .DS_Store
+src/Something.jsx
